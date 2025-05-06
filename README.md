@@ -85,7 +85,7 @@ Para obtener los endpoints con sus ejemplos de body y header es necesario import
 <img src="imagenes/createUser.png">
 
 <b>/pruebaTecnica/users/login</b>:
-<img src="imagenes/login.png">
+<img src="imagenes/login.png"> 
 
 <b>/pruebaTecnica/users/registeredEmails</b>:
 <img src="imagenes/registeredEmails.png">
